@@ -1,0 +1,6 @@
+{"numero":101,"tipo":"INDIVIDUAL","estado":"DISPONIBLE","precioPorNoche":100.0,"icono":"/imagenes/Habitaciones/habitacionindividual1.jpg","detalles":{"tv":true,"camaDoble":false,"minibar":false,"jacuzzi":false}}
+{"numero":102,"tipo":"DOBLE","estado":"DISPONIBLE","precioPorNoche":200.0,"icono":"/imagenes/Habitaciones/habitaciondoble1.jpg","detalles":{"tv":true,"camaDoble":true,"minibar":false,"jacuzzi":false}}
+{"numero":103,"tipo":"SUITE","estado":"DISPONIBLE","precioPorNoche":400.0,"icono":"/imagenes/Habitaciones/habitacionsuite1.jpg","detalles":{"tv":true,"camaDoble":true,"minibar":true,"jacuzzi":true}}
+{"numero":201,"tipo":"INDIVIDUAL","estado":"DISPONIBLE","precioPorNoche":100.0,"icono":"/imagenes/Habitaciones/habitacionindividual2.jpg","detalles":{"tv":true,"camaDoble":false,"minibar":false,"jacuzzi":false}}
+{"numero":202,"tipo":"DOBLE","estado":"DISPONIBLE","precioPorNoche":200.0,"icono":"/imagenes/Habitaciones/habitaciondoble2.jpg","detalles":{"tv":true,"camaDoble":true,"minibar":false,"jacuzzi":false}}
+{"numero":203,"tipo":"SUITE","estado":"DISPONIBLE","precioPorNoche":400.0,"icono":"/imagenes/Habitaciones/habitacionsuite2.jpg","detalles":{"tv":true,"camaDoble":true,"minibar":true,"jacuzzi":true}}
